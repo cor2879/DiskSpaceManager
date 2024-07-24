@@ -1,0 +1,40 @@
+{
+  "profiles": {
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    },
+    "AppData": {
+      "commandName": "Project",
+      "commandLineArgs": "-root \"C:\\Users\\cor28\\AppData\" -outputFile C:\\Users\\cor28\\Desktop\\DirectoryInfo.txt"
+    },
+    "AppData\\Local": {
+      "commandName": "Project",
+      "commandLineArgs": "-root \"C:\\Users\\cor28\\AppData\\Local\" -outputFile C:\\Users\\cor28\\Desktop\\DirectoryInfo.txt"
+    },
+    "AppData\\Roaming": {
+      "commandName": "Project",
+      "commandLineArgs": "-root \"C:\\Users\\cor28\\AppData\\Roaming\" -outputFile C:\\Users\\cor28\\Desktop\\DirectoryInfo.txt"
+    },
+    "AppData\\Local\\Google": {
+      "commandName": "Project",
+      "commandLineArgs": "-root \"C:\\Users\\cor28\\AppData\\Local\\Google\" -outputFile C:\\Users\\cor28\\Desktop\\DirectoryInfo.txt"
+    },
+    "AppData\\Local\\Google\\Chrome": {
+      "commandName": "Project",
+      "commandLineArgs": "-root \"C:\\Users\\cor28\\AppData\\Local\\Google\\Chrome\" -outputFile C:\\Users\\cor28\\Desktop\\DirectoryInfo.txt"
+    },
+    "AppData\\Local\\Google\\Chrome\\User Data": {
+      "commandName": "Project",
+      "commandLineArgs": "-root \"C:\\Users\\cor28\\AppData\\Local\\Google\\Chrome\\User Data\" -outputFile C:\\Users\\cor28\\Desktop\\DirectoryInfo.txt"
+    },
+    "AppData\\Local\\Google\\Chrome\\User Data\\Default": {
+      "commandName": "Project",
+      "commandLineArgs": "-root \"C:\\Users\\cor28\\AppData\\Local\\Google\\Chrome\\User Data\\Default\" -outputFile C:\\Users\\cor28\\Desktop\\DirectoryInfo.txt"
+    },
+    "C:\\": {
+      "commandName": "Project",
+      "commandLineArgs": "-root \"C:\" -outputFile C:\\Users\\cor28\\Desktop\\DirectoryInfo.txt"
+    }
+  }
+}
